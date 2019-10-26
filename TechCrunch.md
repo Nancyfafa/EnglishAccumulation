@@ -12,3 +12,16 @@ TikTok：抖音国际版<br>
 1、Two lawmakers have asked the government’s **most senior** 最高 U.S. intelligence official to assess if video-sharing app TikTok could **pose** “national security risks” **to** the United States.<br>
 2、TikTok has **some** 110 million downloads to date and has spiked *adj.有尖刺的，带钉的* in popularity for its ability to record short, snappy videos that are sharable across social media networks.<br>
 3、In September, The Guardian revealed that the app’s moderators *n.调解人，仲裁人* actively censor *v.审查* content relating to Tibetan *西藏* independence, the Tiananmen Square massacre *n.大屠杀* and the banned religious group Falun Gong.
+# 《Why the Facebook News tab shouldn’t be trusted》
+1、Once more, Facebook dangles *v.悬挂，悬摆* extra traffic *n.流量*, and journalism outlets *adj.出路；表现机会；专营店* leap *v.跳，剧增* through its hoop *n.箍，圈* and into its cage.<br>
+2、And really, **given** Facebook’s flawless track record of pulling the rug out from under publishers, no one should be surprised.<br>
+3、Let’s **take a stroll back through time** and check out Facebook’s past **flip-flops** *n.人字拖 v.转变相反观点* on news that hurt everyone else.<br>
+4、In 2015, Facebook **launched** Instant Articles, **hosting** news content inside its app to make it load faster.<br> 
+5、But increasingly it feels like the company is **in an abusive love/hate** relationship with users, **catering to** *迎合* their attention while exploiting their privacy. <br> 
+
+
+
+
+
+
+
