@@ -18,7 +18,13 @@ TikTok：抖音国际版<br>
 3、Let’s **take a stroll back through time** and check out Facebook’s past **flip-flops** *n.人字拖 v.转变相反观点* on news that hurt everyone else.<br>
 4、In 2015, Facebook **launched** Instant Articles, **hosting** news content inside its app to make it load faster.<br> 
 5、But increasingly it feels like the company is **in an abusive love/hate** relationship with users, **catering to** *迎合* their attention while exploiting their privacy. <br> 
-
+# 《Apple releases iOS 13.2 with Deep Fusion *深度处理*》
+1、This update **features** the usual bug fixes and security improvements. 
+2、If you have an iPhone 11 or iPhone 11 Pro, iOS 13.2 **enables** Deep Fusion, an image-processing feature that should make your photos look better thanks to machine learning-enabled processing.
+# 《Instagram expands ban on suicide content to cover cartoons and memes》
+1、Instagram  has **expanded** a ban on graphical self-harm imagery **to** include a broader range of content depicting suicide, including fictional illustrations of self-harm and suicide methods such as drawings, cartoons and memes.
+2、
+3、
 
 
 
