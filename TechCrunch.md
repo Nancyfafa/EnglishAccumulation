@@ -19,12 +19,12 @@ TikTok：抖音国际版<br>
 4、In 2015, Facebook **launched** Instant Articles, **hosting** news content inside its app to make it load faster.<br> 
 5、But increasingly it feels like the company is **in an abusive love/hate** relationship with users, **catering to** *迎合* their attention while exploiting their privacy. <br> 
 # 《Apple releases iOS 13.2 with Deep Fusion *深度处理*》
-1、This update **features** the usual bug fixes and security improvements. 
+1、This update **features** the usual bug fixes and security improvements. <br> 
 2、If you have an iPhone 11 or iPhone 11 Pro, iOS 13.2 **enables** Deep Fusion, an image-processing feature that should make your photos look better thanks to machine learning-enabled processing.
 # 《Instagram expands ban on suicide content to cover cartoons and memes》
-1、Instagram  has **expanded** a ban on graphical self-harm imagery **to** include a broader range of content depicting suicide, including fictional illustrations of self-harm and suicide methods such as drawings, cartoons and memes.
-2、
-3、
+1、Instagram  has **expanded** a ban on graphical self-harm imagery **to** include a broader range of content depicting suicide, including fictional illustrations of self-harm and suicide methods such as drawings, cartoons and memes.<br> 
+2、We aim to **strike the difficult balance between** allowing people to share their mental health experiences **while** also protecting others from being exposed to potentially harmful content.<br> 
+3、But getting our approach right/ requires more than **a single change to** our policies /or **a one-time update to** our technology. 
 
 
 
