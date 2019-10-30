@@ -25,6 +25,13 @@ TikTok：抖音国际版<br>
 1、Instagram  has **expanded** a ban on graphical self-harm imagery **to** include a broader range of content depicting suicide, including fictional illustrations of self-harm and suicide methods such as drawings, cartoons and memes.<br> 
 2、We aim to **strike the difficult balance between** allowing people to share their mental health experiences **while** also protecting others from being exposed to potentially harmful content.<br> 
 3、But getting our approach right/ requires more than **a single change to** our policies /or **a one-time update to** our technology. 
+# 《Tencent leads $111M investment in India’s video streaming service MX Player》
+1、Tencent is **a leading global force in** music and video, and there’s a lot for us to learn and **leverage** *n.杠杠作用，影响力 v.举债经营* from their capabilities.<br> 
+2、Karan Bedi, CEO of MX Player, said in an interview that the video app will use the **fresh capital** *新资本* to **double down on** *在某方面加倍努力* producing original TV shows and broadening its catalog of licensed content.<br> 
+3、
+
+
+
 
 
 
