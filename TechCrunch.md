@@ -28,7 +28,9 @@ TikTok：抖音国际版<br>
 # 《Tencent leads $111M investment in India’s video streaming service MX Player》
 1、Tencent is **a leading global force in** music and video, and there’s a lot for us to learn and **leverage** *n.杠杠作用，影响力 v.举债经营* from their capabilities.<br> 
 2、Karan Bedi, CEO of MX Player, said in an interview that the video app will use the **fresh capital** *新资本* to **double down on** *在某方面加倍努力* producing original TV shows and broadening its catalog of licensed content.<br> 
-3、
+3、Bedi said the company has **tied up with** all-web show producers such as HoiChoi in India and three of the top five TV local cable networks, including Sony and Sun. **Missing from the list is** Star India, the largest TV network in the country.<br> 
+4、Figuring out what exactly resonates *v.产生共鸣* with the users in India, the world’s second largest internet market, is the billion-dollar question.<br> 
+5、Within a relatively short period of time, MX Player has **leveraged** its **vast user base** and rich content library to be one of the leading video-streaming services in India.
 
 
 
