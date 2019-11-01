@@ -31,6 +31,10 @@ TikTok：抖音国际版<br>
 3、Bedi said the company has **tied up with** all-web show producers such as HoiChoi in India and three of the top five TV local cable networks, including Sony and Sun. **Missing from the list is** Star India, the largest TV network in the country.<br> 
 4、Figuring out what exactly resonates *v.产生共鸣* with the users in India, the world’s second largest internet market, is the billion-dollar question.<br> 
 5、Within a relatively short period of time, MX Player has **leveraged** its **vast user base** and rich content library to be one of the leading video-streaming services in India.
+# 《Github removes Tsunami Democràtic’s APK after a takedown order from Spain》
+1、
+2、
+3、
 
 
 
