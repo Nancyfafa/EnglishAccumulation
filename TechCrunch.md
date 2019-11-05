@@ -31,10 +31,9 @@ TikTok：抖音国际版<br>
 3、Bedi said the company has **tied up with** all-web show producers such as HoiChoi in India and three of the top five TV local cable networks, including Sony and Sun. **Missing from the list is** Star India, the largest TV network in the country.<br> 
 4、Figuring out what exactly resonates *v.产生共鸣* with the users in India, the world’s second largest internet market, is the billion-dollar question.<br> 
 5、Within a relatively short period of time, MX Player has **leveraged** its **vast user base** and rich content library to be one of the leading video-streaming services in India.
-# 《Github removes Tsunami Democràtic’s APK after a takedown order from Spain》
-1、
-2、
-3、
+# 《TikTok expands its influence to third-party apps with new developer program & SDK》
+1、For some of the smaller, single-purpose apps, being able to become a useful tool for the creator community can have an **outsized impact on** their growth and revenues *n.财政收入*.<br> 
+2、The program’s terms *n.条款* of service restricts developers from collecting users’ personal data or other nefarious *adj.罪恶的，不道德的* activity, and threatens developers’ access could be removed if terms are violated *v.违反*.
 
 
 
