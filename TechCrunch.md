@@ -35,9 +35,9 @@ TikTok：抖音国际版<br>
 1、For some of the smaller, single-purpose apps, being able to become a useful tool for the creator community can have an **outsized impact on** their growth and revenues *n.财政收入*.<br> 
 2、The program’s terms *n.条款* of service restricts developers from collecting users’ personal data or other nefarious *adj.罪恶的，不道德的* activity, and threatens developers’ access could be removed if terms are violated *v.违反*.
 # 《Facebook prototypes Favorites for close friends microsharing》
-1、There are a lot people that don’t share on Facebook because it *can* feel risky or awkward as its definition of “friends” has **swelled to** *膨胀到* include family, work colleagues and distant acquaintances. 
-2、There are **a ton of** benefits Facebook could get from a Favorites feature if it ever **launches** *启用*.
-3、Second, Facebook could get new, more intimate types of content shared, from the heartfelt and vulnerable to the silly and spontaneous *adj.自我的* to the racy and shocking — stuff people don’t want every single person they’ve ever accepted a friend request from to see.Favorites could reduce **self-censorship** *自我检查*.
+1、There are a lot people that don’t share on Facebook because it *can* feel risky or awkward as its definition of “friends” has **swelled to** *膨胀到* include family, work colleagues and distant acquaintances. <br> 
+2、There are **a ton of** benefits Facebook could get from a Favorites feature if it ever **launches** *启用*.<br> 
+3、Second, Facebook could get new, more intimate types of content shared, from the heartfelt and vulnerable to the silly and spontaneous *adj.自我的* to the racy and shocking — stuff people don’t want every single person they’ve ever accepted a friend request from to see.Favorites could reduce **self-censorship** *自我检查*.<br> 
 4、Facebook Favorites could stimulate lots of sharing of **content unique** to its network, **thereby** driving usage. 
 
 
